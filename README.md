@@ -1,4 +1,4 @@
-<h1> <a href="https://navsheelbiral.github.io/Keep/"> 🖋 To-Do List </a> </h1>
+<h1> <a href="https://navsheelbiral.github.io/Keep/"> 🖋 Keep </a> </h1>
 <h2> This Note taking app is created using: </h2>
 <ul>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
